@@ -16,3 +16,5 @@ Patch para o KOReader que oculta a barra de título no Gerenciador de Arquivos/B
 ## ⚠️ Notas
 * A navegação entre pastas ainda funciona via gestos ou toque longo em espaços vazios.
 * Testado em dispositivos Kindle com KOReader 2025.04+.
+https://github.com/rayanestefani8-collab/koreader-patches/
+Adicionado link para o patch
